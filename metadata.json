@@ -1,0 +1,8 @@
+{
+  "name": "ODIA JARVIS AI",
+  "description": "Advanced futuristic Odia Jarvis AI Assistant with voice interaction, speech synthesis, real-time Gemini AI, and intelligent multi-language support (Odia, Hindi, English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
